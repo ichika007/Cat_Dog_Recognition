@@ -1,5 +1,6 @@
-tensorflow-cpu==2.14.0
 streamlit==1.26.0
 pillow==10.1.0
 numpy==1.25.2
+tflite-runtime==2.14.0
+
 
